@@ -1,4 +1,4 @@
-module github.com/google/wire
+module github.com/tylergannon/wire
 
 go 1.23
 
